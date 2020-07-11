@@ -1,0 +1,17 @@
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\MsTestProject.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\MsTestProject.pdb
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\obj\Debug\MsTestProject.csprojAssemblyReference.cache
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\obj\Debug\MsTestProject.csproj.CoreCompileInputs.cache
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\obj\Debug\MsTestProject.csproj.CopyComplete
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\obj\Debug\MsTestProject.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\obj\Debug\MsTestProject.pdb
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Json.Net.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vbow2\source\repos\WebServiceAutomation\MsTestProject\bin\Debug\Newtonsoft.Json.xml
